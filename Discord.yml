@@ -38,4 +38,11 @@
   strings:
     - ":pepelaugh:"
   location: "assets/discord/pepelaugh.png"
-
+- name: sadcat
+  strings:
+    - ":sadcat:"
+  location: "assets/discord/sadcat.png"
+- name: sadpepe
+  strings:
+    - ":sadpepe:"
+  location: "assets/discord/sadpepe.png"
