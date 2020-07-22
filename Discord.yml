@@ -46,3 +46,19 @@
   strings:
     - ":sadpepe:"
   location: "assets/discord/sadpepe.png"
+- name: pressF
+  strings:
+    - ":pressF:"
+  location: "assets/discord/pressF.png"
+- name: roflanface
+  strings:
+    - ":roflanface:"
+  location: "assets/discord/roflanface.png"
+- name: roflankk
+  strings:
+    - ":roflankk:"
+  location: "assets/discord/roflankk.png"
+- name: roflanpominki
+  strings:
+    - ":roflanpominki:"
+  location: "assets/discord/roflanpominki.png"
