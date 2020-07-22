@@ -56,5 +56,9 @@
   location: "assets/discord/thinkabout.png"
 - name: triggeredpepa 
   strings:
-- ":triggeredpepa:"
+    - ":triggeredpepa:"
   location: "assets/discord/triggeredpepa.png"
+- name: triggeredthink
+  strings:
+    - ":triggeredthink:"
+  location: "assets/discord/triggeredthink.png"
