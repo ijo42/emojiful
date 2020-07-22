@@ -46,10 +46,6 @@
   strings:
     - ":sadpepe:"
   location: "assets/discord/sadpepe.png"
-- name: shrek
-  strings:
-    - ":shrek:"
-  location: "assets/discord/shrek.png"
 - name: stopwhat
   strings:
     - ":stopwhat:"
