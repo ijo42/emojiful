@@ -46,19 +46,39 @@
   strings:
     - ":sadpepe:"
   location: "assets/discord/sadpepe.png"
-- name: pressF
+- name: shrek
   strings:
-    - ":pressF:"
-  location: "assets/discord/pressF.png"
-- name: roflanface
+    - ":shrek:"
+  location: "assets/discord/shrek.png"
+- name: slogna
   strings:
-    - ":roflanface:"
-  location: "assets/discord/roflanface.png"
-- name: roflankk
+    - ":slogna:"
+  location: "assets/discord/slogna.png"
+- name: stopwhat
   strings:
-    - ":roflankk:"
-  location: "assets/discord/roflankk.png"
-- name: roflanpominki
+    - ":stopwhat:"
+  location: "assets/discord/stopwhat.png"
+- name: thinkabout
   strings:
-    - ":roflanpominki:"
-  location: "assets/discord/roflanpominki.png"
+    - ":thinkabout:"
+  location: "assets/discord/thinkabout.png"
+- name: thonk 
+  strings:
+    - ":thonk:"
+  location: "assets/discord/thonk.png"
+- name: thonkbutcool
+  strings:
+    - ":thonkbutcool:"
+  location: "assets/discord/thonkbutcool.png"
+- name: triggeredpepa 
+  strings:
+- ":triggeredpepa:"
+  location: "assets/discord/triggeredpepa.png"
+- name: triggeredthink
+  strings:
+    - ":triggeredthink:"
+  location: "assets/discord/triggeredthink.png"
+- name: tsar
+  strings:
+    - ":tsar:"
+  location: "assets/discord/tsar.png"
