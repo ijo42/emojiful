@@ -22,3 +22,59 @@
   strings:
     - ":catinnocence:"
   location: "assets/discord/catinnocence.png"
+- name: cmonbruh 
+  strings:
+    - ":cmonbruh:"
+  location: "assets/discord/cmonbruh.png"
+- name: content
+  strings:
+    - ":content:"
+  location: "assets/discord/content.png"
+- name: coolstorybob
+  strings:
+    - ":coolstorybob:"
+  location: "assets/discord/coolstorybob.png"
+- name: cringeheralt
+  strings:
+    - ":cringeheralt:"
+  location: "assets/discord/cringeheralt.png"
+- name: doge
+  strings:
+    - ":doge:"
+  location: "assets/discord/doge.png"
+- name: dulich
+  strings:
+    - ":dulich:"
+  location: "assets/discord/dulich.png"
+- name: durak
+  strings:
+    - ":durak:"
+  location: "assets/discord/durak.png"
+- name: ez
+  strings:
+    - ":ez:"
+  location: "assets/discord/ez.png"
+- name: feelbadman
+  strings:
+    - ":feelbadman:"
+  location: "assets/discord/feelbadman.png"
+- name: feelgoodman
+  strings:
+    - ":feelgoodman:"
+  location: "assets/discord/feelgoodman.png"
+- name: gorit 
+  strings:
+    - ":gorit:"
+  location: "assets/discord/gorit.png"
+- name: knocknice
+  strings:
+    - ":knocknice:"
+  location: "assets/discord/knocknice.png"
+    - name: monkahmm
+  strings:
+    - ":monkahmm:"
+  location: "assets/discord/monkahmm.png"
+- name: monkas
+  strings:
+    - ":monkas:"
+  location: "assets/discord/monkas.png"
