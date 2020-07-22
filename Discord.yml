@@ -26,3 +26,39 @@
   strings:
     - ":monkas:"
   location: "assets/discord/monkas.png"
+- name: pepecresus
+  strings:
+    - ":pepecresus:"
+  location: "assets/discord/pepecresus.png"
+- name: pepehands
+  strings:
+    - ":pepehands:"
+  location: "assets/discord/pepehands.png"
+- name: pepelaugh
+  strings:
+    - ":pepelaugh:"
+  location: "assets/discord/pepelaugh.png"
+- name: pressF
+  strings:
+    - ":pressF:"
+  location: "assets/discord/pressF.png"
+- name: roflanface
+  strings:
+    - ":roflanface:"
+  location: "assets/discord/roflanface.png"
+- name: roflankk
+  strings:
+    - ":roflankk:"
+  location: "assets/discord/roflankk.png"
+- name: roflanpominki
+  strings:
+    - ":roflanpominki:"
+  location: "assets/discord/roflanpominki.png"
+- name: sadcat
+  strings:
+    - ":sadcat:"
+  location: "assets/discord/sadcat.png"
+- name: sadpepe
+  strings:
+    - ":sadpepe:"
+  location: "assets/discord/sadpepe.png"
