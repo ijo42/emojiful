@@ -50,10 +50,6 @@
   strings:
     - ":shrek:"
   location: "assets/discord/shrek.png"
-- name: slogna
-  strings:
-    - ":slogna:"
-  location: "assets/discord/slogna.png"
 - name: stopwhat
   strings:
     - ":stopwhat:"
@@ -70,7 +66,3 @@
   strings:
     - ":triggeredthink:"
   location: "assets/discord/triggeredthink.png"
-- name: tsar
-  strings:
-    - ":tsar:"
-  location: "assets/discord/tsar.png"
