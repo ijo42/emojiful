@@ -62,14 +62,6 @@
   strings:
     - ":thinkabout:"
   location: "assets/discord/thinkabout.png"
-- name: thonk 
-  strings:
-    - ":thonk:"
-  location: "assets/discord/thonk.png"
-- name: thonkbutcool
-  strings:
-    - ":thonkbutcool:"
-  location: "assets/discord/thonkbutcool.png"
 - name: triggeredpepa 
   strings:
 - ":triggeredpepa:"
